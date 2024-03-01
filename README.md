@@ -9,7 +9,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/jamj2000/DAW1-ED-Pruebas-Ejemplo1.svg)](https://github.com/jamj2000/DAW1-ED-Pruebas-Ejemplo1/stargazers)
 [![GitHub license](https://img.shields.io/github/license/jamj2000/DAW1-ED-Pruebas-Ejemplo1.svg)](https://github.com/jamj2000/DAW1-ED-Pruebas-Ejemplo1/blob/master/LICENSE)
 [![HitCount](http://hits.dwyl.com/jamj2000/DAW1-ED-Pruebas-Ejemplo1.svg)](http://hits.dwyl.com/jamj2000/DAW1-ED-Pruebas-Ejemplo1)
-
+[![CircleCI](https://dl.circleci.com/status-badge/img/circleci/Xgw3dWdDTMoU2fxv5UCYCB/QRwm2ReHbgXy3sYMyEcG3n/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/circleci/Xgw3dWdDTMoU2fxv5UCYCB/QRwm2ReHbgXy3sYMyEcG3n/tree/main)
 
 ## Pruebas unitarias en **Java** con **JUnit5** (Gradle)
 
